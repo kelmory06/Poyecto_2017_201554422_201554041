@@ -1,5 +1,6 @@
 En este modulo se genera la conexion con la base de datos que se encuentra almacenada en heroku,
-en el cual el cliente prodra crear, modificar o consultar los registros.
-sistemaOpertativo: (kernel, release, nodo, version, maquina, procesador, so, hardware)
+(plataforma como servicio de computación en la Nube que soporta distintos lenguajes de programación,
+en este caso python), en el cual el cliente podra crear, modificar o consultar los registros.
+SistemaOpertativo: (kernel, release, nodo, version, maquina, procesador, SO, hardware)
 usuario: (nombre).
 CPU, menoria y memoria de intercambio.

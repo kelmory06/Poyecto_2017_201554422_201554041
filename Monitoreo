@@ -1,7 +1,8 @@
-Se envia la informacion obtenida por RestMonitoring, cada cierto tiempo para almacenar en la base de datos
-La informacion obtenida por RestMonitoring en cuanto el sistema operativo es:
-nombre del kernel, release del kernel, nombre del nodo, versión del kernel, máquina, 
-procesador, sistema operativo y hardware.
+
+Se envia la informacion obtenida por RestMonitoring (directorio donde se encuentra el programa 
+de monitoreo), cada cierto tiempo para almacenar en la base de datos la informacion obtenida 
+por RestMonitoring en cuanto el sistema operativo es: nombre del kernel, release del kernel, 
+nombre del nodo, versión del kernel, máquina, procesador, sistema operativo y hardware.
 La informacion que obtiene del usuario es: Si esta activo o no. 
-Se enviara informcion del estado de la maquina localmente.
-Esta infomacion llegara en formato JSON. 
+Se enviara informacion del estado de la maquina localmente.
+Esta informacion llegara en formato JSON. 

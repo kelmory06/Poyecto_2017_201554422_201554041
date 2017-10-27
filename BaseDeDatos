@@ -1,0 +1,5 @@
+En este modulo se genera la conexion con la base de datos que se encuentra almacenada en heroku,
+en el cual el cliente prodra crear, modificar o consultar los registros.
+sistemaOpertativo: (kernel, release, nodo, version, maquina, procesador, so, hardware)
+usuario: (nombre).
+CPU, menoria y memoria de intercambio.
